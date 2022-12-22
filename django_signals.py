@@ -370,3 +370,17 @@ def send_new_officer_notification_email(sender, instance, created, **kwargs):
             ['recipeint1@xample.com', 'recipent2@xample.com '],
             fail_silently=False,
         )
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+*****************************************************
+*      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     *
+*****************************************************
